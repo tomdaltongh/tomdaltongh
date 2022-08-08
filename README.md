@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming with Java (e.g. Plugins for Spigot, Applications, etc.)
 - 🌱 I’m currently learning Java, C, C# and Python.
 - :wrench: I’m currently working as Junior DevOps Engineer to automate apps and IT infrastructure with Ansible.
-- 💞️ I’m looking to collaborate on nothing, tbh.
+- 💞️ I’m looking to collaborate on hosting Servers
 - 📫 How to reach me: Discord(TomDalton#0001)
 
 <!---
